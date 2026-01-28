@@ -1,0 +1,9 @@
+Age,Gender,Monthly_Spend,Contract_Type,Tenure_Months,Churn
+25,Male,30,Monthly,6,Yes
+40,Female,80,Yearly,24,No
+30,Female,50,Monthly,12,Yes
+50,Male,90,Yearly,36,No
+28,Male,40,Monthly,8,Yes
+45,Female,70,Yearly,30,No
+35,Male,60,Monthly,15,Yes
+55,Female,100,Yearly,48,No
